@@ -1,21 +1,20 @@
-About Me: :outbox_tray:
-Acerca de mí: :outbox_tray:
+# About Me: :outbox_tray:
+# Acerca de mí: :outbox_tray:
 
-I am Mateo Machado, i'm from colombia, living in Medellin City
+***I am Mateo Machado, i'm from colombia, living in Medellin City
 i love roller skate, i love play videogames and of course i love programing.
-I am currently part of the Masglobal Consulting development team and i am a software development student at cesde
+I am currently part of the Masglobal Consulting development team and i am a software development student at cesde***
 
 
-soy Mateo Machado, soy de colombia, vivo en la Miudad de medellin
+***soy Mateo Machado, soy de colombia, vivo en la Miudad de medellin
 amo patinar, amo jugar videojuegos y por supuesto amo programar.
-Actualmente formo parte del equipo de desarrollo de Masglobal Consulting y soy estudiante de desarrollo de software en el cesde
+Actualmente formo parte del equipo de desarrollo de Masglobal Consulting y soy estudiante de desarrollo de software en el cesde***
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
+## ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-![logo](https://firebasestorage.googleapis.com/v0/b/proyecto1cesdemm.appspot.com/o/imagen%201.jpg?alt=media&token=a22de3ba-4bc5-41a7-98cf-169184871831)
+
+
 
 
 

@@ -12,6 +12,9 @@ Actualmente formo parte del equipo de desarrollo de Masglobal Consulting y soy e
 
 ## ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+## https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
+
 
 
 
